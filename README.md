@@ -1,0 +1,2 @@
+# custom_wc_ajax_variation_threshold
+woocommerce_ajax_variation_threshold
